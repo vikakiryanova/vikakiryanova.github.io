@@ -1,0 +1,30 @@
+html {
+
+  font-family: 'SN Pro', sans-serif;
+  color: #f49ab8;
+  background-color: #fce4ec;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+p,
+li,
+a {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+img[src] {
+  border: 5px solid #f49ab8;
+}
+
+body {
+  padding: 0 20px 20px 50px;
+
+}
